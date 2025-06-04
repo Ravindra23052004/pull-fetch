@@ -1,0 +1,2 @@
+hello i am ravindra.here i am creating file-2.txt
+i am in external lab
